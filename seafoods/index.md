@@ -4,6 +4,7 @@ category : sushi
 tagline: "寿司"
 tags : [寿司, 和食]
 ---
-{% include JB/setup %}
+
+#海鮮料理
 
 寿司は代表的な日本食です。
